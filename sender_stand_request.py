@@ -19,3 +19,4 @@ def post_new_client_kit(kit_body, auth_token):
 def get_auth_token():
     response = post_new_user(data.user_body)
     return response.json().get("authToken")
+

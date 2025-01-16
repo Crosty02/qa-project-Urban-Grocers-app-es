@@ -24,3 +24,4 @@ kit_body = {
         "id": 7,
         "productsCount": 0
     }
+

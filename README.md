@@ -65,6 +65,7 @@ Nombre vacío
 Nombre excede el límite (512 caracteres)
 Parámetro name no se pasa en solicitud
 Tipo de dato incorrecto para name
+7. 
 
 
 
